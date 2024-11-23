@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![wakatime](https://wakatime.com/badge/user/018eaee1-e3e2-4452-9f23-2bc0c33377e4.svg)](https://wakatime.com/@018eaee1-e3e2-4452-9f23-2bc0c33377e4)
+
 <!--
 **nuffin/nuffin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
