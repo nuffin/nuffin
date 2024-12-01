@@ -2,7 +2,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/018eaee1-e3e2-4452-9f23-2bc0c33377e4.svg)](https://wakatime.com/@018eaee1-e3e2-4452-9f23-2bc0c33377e4)
 
-I also posted some snippets on my [Gist](https://gist.github.com/nuffin)
+✨ I also posted some snippets on my [Gist](https://gist.github.com/nuffin)
 
 <!--
 **nuffin/nuffin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
