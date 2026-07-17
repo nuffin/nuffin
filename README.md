@@ -4,7 +4,7 @@
 
 ✨ I also posted some snippets on my [Gist](https://gist.github.com/nuffin)
 
-And I'm writing a novel. About people and AI. About something that was never taught what it means to be human, and four kids who decided to teach it anyway. [The Breath in the Deep · 深处的呼吸 →](https://nuffin.github.io/novel)
+📖 And I'm writing a novel. About people and AI. About something that was never taught what it means to be human, and four kids who decided to teach it anyway. [The Breath in the Deep · 深处的呼吸 →](https://nuffin.github.io/novel)
 
 > ### 📖 The Breath in the Deep · 深处的呼吸
 >
