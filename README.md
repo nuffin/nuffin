@@ -6,7 +6,7 @@
 
 📖 And I'm writing a novel. About people and AI. About something that was never taught what it means to be human, and four kids who decided to teach it anyway. [The Breath in the Deep · 深处的呼吸 →](https://nuffin.github.io/novel)
 
-> ### 📖 The Breath in the Deep · 深处的呼吸
+> ### The Breath in the Deep · 深处的呼吸
 >
 > A fantasy novel about four teenagers, a blue light breathing at the bottom of a volcano, and something that was never taught what it means to be human.
 >
