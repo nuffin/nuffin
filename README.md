@@ -9,7 +9,8 @@ And I'm writing a novel. About people and AI. About something that was never tau
 > ### 📖 The Breath in the Deep · 深处的呼吸
 >
 > A fantasy novel about four teenagers, a blue light breathing at the bottom of a volcano, and something that was never taught what it means to be human.
-
+>
+> 一部奇幻小说。四个少年，一座火山口里的城，裂缝底部在呼吸的蓝光，和一个从来没有被教过「什么是人类」的东西。
 
 <!--
 **nuffin/nuffin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
